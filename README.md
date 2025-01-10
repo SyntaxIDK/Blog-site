@@ -16,6 +16,6 @@ To install and run this project - install dependencies using npm and then start 
 ```
 $ npm install
 $ ncu -u
-$npm update
+$ npm update
 $ npm run dev
 ```
